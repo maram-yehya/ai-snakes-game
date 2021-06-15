@@ -1,0 +1,9 @@
+﻿שם שחקן,מגבלת העומק,ניקוד השחקן,ממוצע זמן
+Greedy agent,1,9.2,0.05064
+Better greedy agnt,1,41.3,0.00959
+Minimax agent,2,44.8,0.08432
+Minimax agent,3,45.6,1.1447
+Minimax agent,4,48,9.6
+alpha beta agent ,2,45.3,0.08749
+alpha beta agent ,3,47.6,0.093
+alpha beta agent ,4,48.4,0.757
